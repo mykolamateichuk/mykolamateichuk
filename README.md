@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mykolamateichuk
-- 👀 I’m interested in C++, Rust, Systems Programming(Engineering) and just learning new stuff 💻
+- 👀 I’m interested in C++, Rust, Systems Programming(Engineering), Backend and just learning new stuff 💻
 - 🌱 I’m currently studying in the Institute of Aplied System Analysys in Kyiv Politechnic Institute, Ukraine 🇺🇦
 - 💞️ I’m looking to collaborate on anything pretty much
 - 📫 How to reach me -> [INSTA] @theonlynicah, [EMAIL] mateichukmykola@gmail.com, [TG] @maybetheonlynicah
