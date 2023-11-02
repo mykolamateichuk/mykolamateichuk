@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mykolamateichuk
 - 👀 I’m interested in Backend Engineering and just learning new stuff(like Rust😁)
 - 🌱 I’m currently studying at the Institute of Applied System Analysis at Kyiv Polytechnic Institute, Ukraine 🇺🇦
-- 💞️ I’m looking to collaborate on anything pretty much
+- 💞️ I’m looking to collaborate on anything that is techy enough ;) 
 - 📫 How to reach me -> [EMAIL] mateichukmykola@gmail.com, [TG] @maybetheonlynicah
 
 <!---
