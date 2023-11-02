@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mykolamateichuk
-- 👀 I’m interested in C++, Rust, Systems Programming(Engineering), Backend and just learning new stuff 💻
-- 🌱 I’m currently studying at the Institute of Aplied System Analysys at Kyiv Politechnic Institute, Ukraine 🇺🇦
+- 👀 I’m interested in Backend Engineering and just learning new stuff(like Rust😁)
+- 🌱 I’m currently studying at the Institute of Applied System Analysis at Kyiv Polytechnic Institute, Ukraine 🇺🇦
 - 💞️ I’m looking to collaborate on anything pretty much
-- 📫 How to reach me -> [INSTA] @theonlynicah, [EMAIL] mateichukmykola@gmail.com, [TG] @maybetheonlynicah
+- 📫 How to reach me -> [EMAIL] mateichukmykola@gmail.com, [TG] @maybetheonlynicah
 
 <!---
 mykolamateichuk/mykolamateichuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
