@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @mykolamateichuk
-- 👀 I’m interested in Backend Engineering and just learning new stuff(like Rust😁)
-- 🌱 I’m currently studying at the Institute of Applied System Analysis at Kyiv Polytechnic Institute, Ukraine 🇺🇦
-- 💞️ I’m looking to collaborate on anything that is techy enough ;) 
-- 📫 How to reach me -> [EMAIL] mateichukmykola@gmail.com, [TG] @maybetheonlynicah
+```json
+{
+  "info": {
+    "name": "Mykola Mateichuk",
+    "position": "Python Developer",
+    "degree": "Bachelor's Of Computer Science"
+  },
+  "technologies": {
+    "backend": {
+      "languages": ["Python", "Go (soon...)"],
+      "frameworks": ["Django", "Flask", "FastAPI"],
+      "dbs": ["PostgreSQL", "Redis", "MongoDB", "SQLite"],
+      "docker": true
+    }
+  },
+  "contacts": {
+    "email": "mykola.mateichuk.dev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mykola-mateichuk-704b98267/",
+    "telegram": "@mykolamateichuk"
+  }
+}
+```
 
 <!---
 mykolamateichuk/mykolamateichuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
